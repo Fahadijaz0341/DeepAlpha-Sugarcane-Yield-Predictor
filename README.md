@@ -23,9 +23,4 @@ The framework utilizes a two-branch neural network:
 
 ## 🚀 Live Web Application
 This repository includes a fully interactive **Streamlit** web dashboard. Users can adjust weather sliders, alter soil compositions, select historical satellite footprints, and run the Transformer model in real-time.
-
-### Local Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/DeepAlpha-Sugarcane-Yield-Predictor.git](https://github.com/yourusername/DeepAlpha-Sugarcane-Yield-Predictor.git)
-   cd DeepAlpha-Sugarcane-Yield-Predictor
+https://deepalpha-sugarcane-yield-predictor.streamlit.app/
